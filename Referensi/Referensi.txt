@@ -1,0 +1,14 @@
+https://www.kaggle.com/datasets/preatcher/standard-ocr-dataset
+
+http://ai.stanford.edu/~btaskar/ocr/
+
+https://www.kaggle.com/code/monuirctc/layouylmv2-starter
+
+https://www.kaggle.com/code/manishthem/entity-recognition-for-ocr-using-text-data-xml
+
+https://www.kaggle.com/datasets/manishthem/text-extraction-for-ocr?datasetId=1222086
+
+https://towardsdatascience.com/a-gentle-introduction-to-ocr-ee1469a201aa
+
+https://pyimagesearch.com/2020/08/17/ocr-with-keras-tensorflow-and-deep-learning/
+
